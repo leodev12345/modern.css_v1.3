@@ -10,8 +10,6 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 `.bg-*color*-full - sets the background(container) without any margins`
 
-`.modern-body - creates modern looking webpage when you put it in <body> element`
-
 avibile colors:
 ------------------------------------------
 red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yellow,orange,lb(light blue),brown.
@@ -31,6 +29,8 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 `.modern-container - create black box with white text aligned to center`
 
 `.modern-container-full - same as .modern-container but without margins`
+
+`.modern-body - creates modern looking webpage when you put it in <body> element`
 
 `.middle - sets same padding for top and bottom`
 
