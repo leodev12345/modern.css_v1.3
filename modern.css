@@ -1,0 +1,585 @@
+html, body, .modern-container-full, .bg-brown-full, .bg-red-full, .bg-blue-full, .bg-green-full,
+.bg-lb-full, .bg-lg-full, .bg-gray-full, .bg-lig-full, .bg-black-full, .bg-white-full, .bg-pink-full, .bg-purple-full,
+.bg-yellow-full, .bg-orange-full,  
+{
+	margin: 0;
+}
+
+.center{
+    text-align:center;
+}
+
+.justify{
+	text-align:justify;
+}
+
+.right{
+     text-align:right;
+}
+
+.left{
+     text-align:left;
+}
+
+.underline{
+    text-decoration:underline;
+}
+
+.bold{
+    font-weight:bold;
+}
+
+.overline{
+    text-decoration:overline;
+}
+
+.line-thr{
+    text-decoration:line-through;
+}
+
+.italic{
+    font-style:italic;
+}
+
+.bg-brown{
+    background-color:brown;
+    margin:10px;
+}
+
+.bg-red{
+    background-color:red;
+    margin:10px;
+} 
+
+.bg-blue{
+    background-color:blue;
+    margin:10px;
+}
+
+.bg-green{
+    background-color:green;
+    margin:10px;
+}
+
+.bg-lb{
+    background-color:lightblue;
+    margin:10px;
+}    
+
+.bg-lg{
+    background-color:lightgreen;
+    margin:10px;
+} 
+
+.bg-gray{
+    background-color:gray;
+    margin:10px;
+}
+
+.bg-lig{
+    background-color:lightgray;
+    margin:10px;
+}  
+
+.bg-yellow{
+    background-color:yellow;
+    margin:10px;
+} 
+
+.bg-orange{
+    background-color:orange;
+    margin:10px;
+} 
+
+.bg-black{
+    background-color:black;
+    margin:10px;
+}
+
+.bg-white{
+    background-color:white;
+    margin:10px;
+} 
+
+.bg-pink{
+    background-color:pink;
+    margin:10px;
+} 
+
+.bg-purple{
+    background-color:purple;
+    margin:10px;
+}
+
+.bg-brown-full{
+    background-color:brown;
+}
+
+.bg-red-full{
+    background-color:red;
+} 
+
+.bg-blue-full{
+    background-color:blue;
+}
+
+.bg-green-full{
+    background-color:green;
+}
+
+.bg-lb-full{
+    background-color:lightblue;
+}    
+
+.bg-lg-full{
+    background-color:lightgreen;
+} 
+
+.bg-gray-full{
+    background-color:gray;
+}
+
+.bg-lig-full{
+    background-color:lightgray;
+}  
+
+.bg-yellow-full{
+    background-color:yellow;
+} 
+
+.bg-orange-full{
+    background-color:orange;
+} 
+
+.bg-black-full{
+    background-color:black;
+}
+
+.bg-white-full{
+    background-color:white;
+} 
+
+.bg-pink-full{
+    background-color:pink;
+} 
+
+.bg-purple-full{
+    background-color:purple;
+}
+
+.brown{
+    color:brown;
+}
+
+.red{
+    color:red;
+}
+
+.blue{
+   color:blue; 
+}
+
+.light-blue{
+   color:lightblue; 
+}
+
+.orange{
+   color:orange; 
+}
+
+.yellow{
+   color:yellow; 
+}
+
+.green{
+   color:green; 
+}
+
+.pink{
+   color:pink; 
+}
+
+.purple{
+   color:purple; 
+}
+
+.black{
+    color:black;
+}
+
+.white{
+   color:white; 
+}
+
+.light-green{
+   color:lightgreen; 
+}
+
+.gray{
+   color:gray; 
+}
+
+.light-gray{
+   color:lightgray; 
+}
+
+.modern-container{
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+    font-size:20px;
+    margin:10px;
+}
+
+.modern-container-full{
+	text-align:center;
+	background-color:black;
+	color:white;
+	font-size:20px;
+	padding-top:100px;
+	padding-bottom:100px;
+}
+
+.midle{
+    padding-top:100px;
+    padding-bottom:100px;
+    text-align:center;
+}
+
+.hr-brown{
+    border-color:brown;
+}
+
+.hr-red{
+    border-color:red;
+}
+
+.hr-green{
+    border-color:green;
+}
+
+.hr-blue{
+    border-color:blue;
+}
+
+.hr-lb{
+    border-color:lightblue;
+}
+
+.hr-lg{
+    border-color:lightgreen;
+}
+
+.hr-gray{
+    border-color:gray;
+}
+
+.hr-lig{
+    border-color:lightgray;
+}
+
+.hr-yellow{
+    border-color:yellow;
+}
+
+.hr-orange{
+    border-color:orange;
+}
+
+.hr-black{
+    border-color:black;
+}
+
+.hr-white{
+    border-color:white;
+}
+
+.hr-pink{
+    border-color:pink;
+}
+
+.hr-purple{
+    border-color:purple;
+}
+a:hover.hvr-brown{
+		color:brown;
+}
+
+a:hover.hvr-red{
+	color:red;
+}
+
+a:hover.hvr-green{
+	color:green;
+}
+
+a:hover.hvr-lg{
+	color:lightgreen;
+}
+
+a:hover.hvr-blue{
+	color:blue;
+}
+
+a:hover.hvr-lb{
+	color:lightblue;
+}
+
+a:hover.hvr-gray{
+	color:gray;
+}
+
+a:hover.hvr-lig{
+	color:lightgray;
+}
+
+a:hover.hvr-orange{
+	color:orange;
+}
+
+a:hover.hvr-yellow{
+	color:yellow;
+}
+
+a:hover.hvr-black{
+	color:black;
+}
+
+a:hover.hvr-white{
+	color:white;
+}
+
+a:hover.hvr-pink{
+	color:pink;
+}
+
+a:hover.hvr-purple{
+	color:purple;
+}
+
+a:hover.hvr-bold{
+	font-weight:bold;
+}
+
+a:hover.hvr-italic{
+	font-style:italic;
+}
+
+a:hover.hvr-underline{
+	text-decoration:underline;
+}
+
+a:hover.hvr-line-thr{
+	text-decoration:line-through;
+}
+
+a:hover.hvr-overline{
+	text-decoration:overline;
+}
+
+a:visited.vis-brown{
+	color:brown;
+}
+
+a:visited.vis-red{
+	color:red;
+}
+
+a:visited.vis-green{
+	color:green;
+}
+
+a:visited.vis-lg{
+	color:lightgreen;
+}
+
+a:visited.vis-blue{
+	color:blue;
+}
+
+a:visited.vis-lb{
+	color:lightblue;
+}
+
+a:visited.vis-gray{
+	color:gray;
+}
+
+a:visited.vis-lig{
+	color:lightgray;
+}
+
+a:visited.vis-orange{
+	color:orange;
+}
+
+a:visited.vis-yellow{
+	color:yellow;
+}
+
+a:visited.vis-black{
+	color:black;
+}
+
+a:visited.vis-white{
+	color:white;
+}
+
+a:visited.vis-pink{
+	color:pink;
+}
+
+a:visited.vis-purple{
+	color:purple;
+}
+
+a:visited.vis-bold{
+	font-weight:bold;
+}
+
+a:visited.vis-italic{
+	font-style:italic;
+}
+
+a:visited.vis-underline{
+	text-decoration:underline;
+}
+
+a:visited.vis-line-thr{
+	text-decoration:line-through;
+}
+
+a:visited.vis-overline{
+	text-decoration:overline;
+}
+
+a:active.act-brown{
+	color:brown;
+}
+
+a:active.act-red{
+	color:red;
+}
+
+a:active.act-green{
+	color:green;
+}
+
+a:active.act-lg{
+	color:lightgreen;
+}
+
+a:active.act-blue{
+	color:blue;
+}
+
+a:active.act-lb{
+	color:lightblue;
+}
+
+a:active.act-gray{
+	color:gray;
+}
+
+a:active.act-lig{
+	color:lightgray;
+}
+
+a:active.act-orange{
+	color:orange;
+}
+
+a:active.act-yellow{
+	color:yellow;
+}
+
+a:active.act-black{
+	color:black;
+}
+
+a:active.act-white{
+	color:white;
+}
+
+a:active.act-pink{
+	color:pink;
+}
+
+a:active.act-purple{
+	color:purple;
+}
+
+a:active.act-bold{
+	font-weight:bold;
+}
+
+a:active.act-italic{
+	font-style:italic;
+}
+
+a:active.act-underline{
+	text-decoration:underline;
+}
+
+a:active.act-line-thr{
+	text-decoration:line-through;
+}
+
+a:active.act-overline{
+	text-decoration:overline;
+}
+
+.big{
+	font-size:50px;
+}
+
+.medium{
+	font-size:30px;
+}
+
+.small{
+	font-size:10px;
+}
+
+.modern-body{
+  text-align:center;
+  background-color:black;
+  color:white;
+  font-family: "Helvetica Neue", Helvetica, Arial,   sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, div, blockquote, mark  .modern-body{
+  padding-top:20px;
+  padding-bottom:20px;
+} 
+
+hr .modern-body{
+  border-color:white;
+}
+
+mark .modern-body{ 
+    background-color: blue;
+    color: white;
+}
+
+a .modern-body{
+  text-align:center;
+  text-decoration:none;
+}
+
+a:link .modern-body{
+    color:white;
+    text-decoration:none; 
+}
+
+a:hover .modern-body{
+  color:white;
+  text-decoration:underline;
+}
+
+a:active .modern-body{
+  color:white;
+  text-decoration:bold;
+}
