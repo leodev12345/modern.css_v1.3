@@ -109,3 +109,5 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 #### 2.create link to the file in your HTML file
 #### 3.and you are ready!!!
 ### Sorry CDN is not avabile yet
+
+[https://raw.githubusercontent.com/leodev12345/modern.css_v1.3/master/modern.css](Download now)
