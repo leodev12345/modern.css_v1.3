@@ -1,6 +1,9 @@
 # WHATS NEW IN MODERN.CSS V1.3
 # modern.css_v1.3
-[Downloads](https://github.com/leodev12345/modern.css_v1.3/blob/master/README.md#download-moderncss-now)
+-----------------------------------------
+# Table of content
+> ##### [Downloads](https://github.com/leodev12345/modern.css_v1.3/blob/master/README.md#download-moderncss-now)
+> ##### [Help](https://github.com/leodev12345/modern.css_v1.3/blob/master/README.md#how-to-inport-moderncss-in-your-project)
 ## classes:
 
 `.bg-*color* - sets the background` 
