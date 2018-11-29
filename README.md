@@ -127,4 +127,4 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 > ### [Download modern.css now!](https://raw.githubusercontent.com/leodev12345/modern.css_v1.3/master/modern.css)
 
-> ### [Download *modern.min.css* version!](https://raw.githubusercontent.com/leodev12345/modern.css_v1.3/master/modern.min.css)
+> ### [Download modern.min.css version!](https://raw.githubusercontent.com/leodev12345/modern.css_v1.3/master/modern.min.css)
