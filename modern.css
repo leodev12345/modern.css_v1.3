@@ -558,28 +558,3 @@ h1, h2, h3, h4, h5, h6, p, div, blockquote, mark  .modern-body{
 hr .modern-body{
   border-color:white;
 }
-
-mark .modern-body{ 
-    background-color: blue;
-    color: white;
-}
-
-a .modern-body{
-  text-align:center;
-  text-decoration:none;
-}
-
-a:link .modern-body{
-    color:white;
-    text-decoration:none; 
-}
-
-a:hover .modern-body{
-  color:white;
-  text-decoration:underline;
-}
-
-a:active .modern-body{
-  color:white;
-  text-decoration:bold;
-}
