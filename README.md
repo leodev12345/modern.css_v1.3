@@ -1,7 +1,7 @@
 # WHATS NEW IN MODERN.CSS V1.3
 # modern.css_v1.3
 -----------------------------------------
-# Table of content
+# Content:
 > * [Avabile colors](https://github.com/leodev12345/modern.css_v1.3/blob/master/README.md#avibile-colors)
 
 > * [How to inport modern.css](https://github.com/leodev12345/modern.css_v1.3/blob/master/README.md#how-to-inport-moderncss-in-your-project)
