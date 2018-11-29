@@ -104,11 +104,11 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 `.act-line-thr - creates line through link when its active`
 
-> ### How to inport modern.css in your project
-> #### 1.download modern.css Download links down here :small_red_triangle_down:
-> #### 2.create link to the file in your HTML file
-> #### 3.and you are ready!!!
-> ### Sorry,CDN is not avabile yet :sweat:
+> [X] ### How to inport modern.css in your project
+> [X] #### 1.download modern.css Download links down here :small_red_triangle_down:
+> [X] #### 2.create link to the file in your HTML file
+> [X] #### 3.and you are ready!!!
+> [ ] ### Sorry,CDN is not avabile yet
 ------------------------------------------------------
 > ### how to include css file in html code:
 > `<link rel="stylesheet" href="*your path*">`
