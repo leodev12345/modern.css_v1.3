@@ -106,9 +106,13 @@ red,green,blue,gray,lig(light gray),lg(light green),black,white,pink,purple,yell
 
 > ### How to inport modern.css in your project
 > #### 1.download modern.css go to modern.css_v1.0 > click download zip
-> #### 2.create link to the file in your HTML file ex: ```<link rel="stylesheet" href="*your path*">```
+> #### 2.create link to the file in your HTML file
 > #### 3.and you are ready!!!
 > ### Sorry CDN is not avabile yet
+> ### how to include css file in html code:
+> ```HTML 
+<link rel="stylesheet" href="*your path*">
+```
 
 > [Download modern.css now!](https://raw.githubusercontent.com/leodev12345/modern.css_v1.3/master/modern.css)
 
